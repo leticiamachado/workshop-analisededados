@@ -13,6 +13,7 @@
 ##Tutorial
 
 1.  Operações matemáticas
+
 `1 + 5`  
 `360-35`
 `38*2`   
@@ -20,6 +21,7 @@
 `2^3`    
 
 2.  Atribuir valores a objetos/criando um vetor 
+
 `salario <- 8500`
 `gastos<- 5.34+50.06+80+3465.60+120`
 `poupanca <- salario-gastos`
@@ -28,12 +30,15 @@
 `gastos_dia<-c(5.34,50.06,3465.60, 120)`
 
 3.  Requisitar informações
+
 `print(poupanca)`
 
 4.  Guardar mais de um dado 
+
 `transacoes_bancarias<- c (salario, gastos, poupanca)`
 
 5.  Plotar informações num gráfico
+
 `plot(transacoes_bancarias, type="p")`
 `plot(transacoes_bancarias, type="l")`
 `plot(transacoes_bancarias, type="b")`
