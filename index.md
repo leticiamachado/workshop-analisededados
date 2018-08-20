@@ -1,4 +1,3 @@
-# Mulheres da Ciência 
 ## Oficina: Análise de dados em R
 Dúvidas ou sugestões, envie um e-mail para leticiamachado.maria@gmail.com
 
@@ -12,7 +11,7 @@ Dúvidas ou sugestões, envie um e-mail para leticiamachado.maria@gmail.com
 - _Funções base_
 - _Gráficos_
 
-**Tutorial**
+### Tutorial
 
 1.  Operações matemáticas
 
