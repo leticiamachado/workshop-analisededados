@@ -15,6 +15,8 @@ Dúvidas ou sugestões, envie um e-mail para leticiamachado.maria@gmail.com
 
 ### Tutorial
 
+Cinco comandos básicos para entender o funcionamento do ambiente R:
+
 1.  Operações matemáticas
 
 `1 + 5`  
