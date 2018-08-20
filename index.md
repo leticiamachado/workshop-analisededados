@@ -1,6 +1,4 @@
 # Mulheres da Ciência 
-![https://www.ufpe.br/documents/40615/1578426/fotmulheresciencia16.08.18.jpeg/19613070-803e-4a6b-853b-adbba3ffb0b6?t=1534445077440](src)
-
 ## Oficina: Análise de dados em R
 Dúvidas ou sugestões, envie um e-mail para leticiamachado.maria@gmail.com
 
@@ -63,12 +61,4 @@ Dúvidas ou sugestões, envie um e-mail para leticiamachado.maria@gmail.com
 `?plot`
 
 
-
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
