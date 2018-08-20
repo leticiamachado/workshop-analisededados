@@ -1,4 +1,4 @@
-# Mulheres da Ciência - Recife, 2018
+# Mulheres da Ciência
 ## Oficina: Análise de dados em R
 Dúvidas ou sugestões, envie um e-mail para leticiamachado.maria@gmail.com
 
