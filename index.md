@@ -2,6 +2,7 @@
 ## Oficina: Análise de dados em R
 Dúvidas ou sugestões, envie um e-mail para leticiamachado.maria@gmail.com
 
+### Conteúdo:
 1. O que é e para que serve a análise exploratória de dados
 2. Como a programação pode facilitar o trabalho com dados
 3. Introdução ao ambiente R e Rstudio
