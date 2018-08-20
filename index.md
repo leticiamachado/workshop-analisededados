@@ -1,5 +1,6 @@
 # Mulheres da Ciência
 ## Oficina: Análise de dados em R
+Última atualização em: 22 de agosto de 2018
 Dúvidas ou sugestões, envie um e-mail para leticiamachado.maria@gmail.com
 
 1. O que é e para que serve a análise exploratória de dados
@@ -12,7 +13,7 @@ Dúvidas ou sugestões, envie um e-mail para leticiamachado.maria@gmail.com
 - _Funções base_
 - _Gráficos_
 
-###Tutorial
+**Tutorial**
 
 1.  Operações matemáticas
 
