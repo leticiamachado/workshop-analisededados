@@ -1,6 +1,6 @@
-# Mulheres da Ciência
+# Mulheres da Ciência 
+Image[https://www.ufpe.br/documents/40615/1578426/fotmulheresciencia16.08.18.jpeg/19613070-803e-4a6b-853b-adbba3ffb0b6?t=1534445077440]
 ## Oficina: Análise de dados em R
-Última atualização em: 22 de agosto de 2018
 Dúvidas ou sugestões, envie um e-mail para leticiamachado.maria@gmail.com
 
 1. O que é e para que serve a análise exploratória de dados
